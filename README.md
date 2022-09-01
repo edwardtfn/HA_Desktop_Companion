@@ -31,7 +31,7 @@ Feel free to contribute any time :)
 - camera_in_use
 - cpu_temperature (only native api supported)
 - free_ram
-- wmic (You can integrate any wmix query syou want :))
+- wmic (You can integrate any wmic query you want :))
 ```yaml
 - platform: wmic
   wmic_path: Win32_Battery
